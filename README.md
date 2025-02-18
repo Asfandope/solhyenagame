@@ -1,1 +1,1 @@
-# Sol Hyena Game
+# Hyenagame-backend
